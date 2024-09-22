@@ -16,9 +16,9 @@
 
 ## 联系我们
 
-联系开发者：nemocookpn@qq.com
+联系开发者：jiyingqingfeng@yeah.net
 联系网站所有者：swxfjlqjcwyh@qun.mail.163.com
 
 ---
 
-由裁决委员舒张压90编辑
+
