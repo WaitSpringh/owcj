@@ -4,7 +4,8 @@
 
 ## 关于此项目
 
-此项目前身是[裁决委员会网站](https://github.com/WaitSpringh/FAWEB)，目前被改为文档库使用。
+此项目前身是[裁决委员会网站](https://github.com/WaitSpringh/FAWEB)，被改为文档库使用。
+
 目前项目基本被遗弃，可供学习参考
 
 
